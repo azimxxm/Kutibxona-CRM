@@ -53,8 +53,6 @@ class StudentAdmin(admin.ModelAdmin):
 class KitoblarAdmin(admin.ModelAdmin):
     list_display = ['id', 'Nomi', 'Isbn', 'Nashir_yili',
                     'Janir', 'Nashriyot', 'Til', 'Kiritilgan_sanasi', 'photo_view']
-    search_fields = ['Nomi', 'Isbn', 'Nashir_yili',
-                     'Qaytarilgan_sanasi', 'Janir', 'Nashriyot', 'Til', ]
     
     def photo_view(self, object):
         if object.Rasmi:
