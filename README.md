@@ -1,4 +1,4 @@
-## Kutibxona uchun CRM (Customer Relationship Management) Mijozlar bilan munosabatlarni boshqarish ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+### Kutibxona uchun CRM (Customer Relationship Management) Mijozlar bilan munosabatlarni boshqarish ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 > Foydalanilgan kutibhonalar
 ```bash
